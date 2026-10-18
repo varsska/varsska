@@ -1,4 +1,4 @@
-<p align="center">‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ‧₊˚</p>
+<p align="center">⡞⠳⣄⣀⣠⠞⢷ ֹ۪</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=500&size=30&pause=1400&color=E2B4BD&center=true&vCenter=true&width=600&height=80&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E7%8C%AB%E3%81%8C%E5%A5%BD%E3%81%8D;%E3%81%8A%E3%81%84%E3%81%A7%E3%82%88" alt="Japanese typing">
 </p>
@@ -13,7 +13,7 @@
 <p align="center">
   ฅ^•ﻌ•^ฅ
 </p>
-<p align="center">⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆ ⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆ ⋆ ˚｡⋆</p>
+<p align="center">˚₊‧⋆ /ᐠ - ˕ -マ ‧₊˚</p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-E2B4BD?style=flat-square&logo=git&logoColor=4A4A4A">
   <img src="https://img.shields.io/badge/github-F7D6D0?style=flat-square&logo=github&logoColor=4A4A4A">
@@ -27,7 +27,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/varsska/firs-repo">
-    <img src="https://img.shields.io/badge/%E2%99%A1%20my%20git%20homework-F7D6D0?style=flat-square&logoColor=4A4A4A" alt="Git homework">
+    <img src="https://img.shields.io/badge/%E2%99%A1%20my%20git%20-F7D6D0?style=flat-square&logoColor=4A4A4A" alt="Git homework">
   </a>
 </p>
 <p align="center">
@@ -37,4 +37,4 @@
   <sup>
 sakura</sup>
 </p>
-<p align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</p>
+<p align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ </p>
